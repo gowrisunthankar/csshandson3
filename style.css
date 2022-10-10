@@ -1,0 +1,145 @@
+body {
+    background-color: #767676;
+}
+.box1 {
+    border: 5px solid red;
+    width: 400px;
+    height: 150px;
+    text-align: center;
+    margin: 0 auto;
+    background-color: #fff;
+    color: red;
+    border-radius: 20px;
+    box-shadow: 10px 10px #742673;
+    text-shadow: 2px 2px #742673;
+}
+.container {
+    width: 99%;
+    height: auto;
+    border: 5px solid #2f7719;
+    position: relative;
+}
+.sbox {
+    width: 250px;
+    height: 250px;
+    border: 5px solid red;
+    text-align: center;
+    color: #040005;
+    box-shadow: 10px 10px #742673;
+    background-color: #fff;
+    border-radius: 20px;
+    font-weight: bold;
+    margin: 5px 5px;
+    font-size: 27px;
+    text-shadow: 2px 2px #742673;
+}
+.sbox1 {
+    width: 250px;
+    height: 250px;
+    border: 5px solid red;
+    background-color: #fff;
+    box-shadow: 10px 10px #742673;
+    border-radius: 20px;
+    position: absolute;
+    top: 10px;
+    right: 80px;
+}
+
+.sbox2 {
+    width: 250px;
+    height: 250px;
+    border: 5px solid red;
+    text-align: left;
+    color: #040005;
+    box-shadow: 10px 10px #742673;
+    background-color: #fff;
+    border-radius: 20px;
+    font-weight: bold;
+    margin: 200px 5px;
+    font-size: 27px;
+    text-shadow: 2px 2px #742673;
+}
+.sbox3 {
+    width: 250px;
+    height: 250px;
+    border: 5px solid red;
+    color: #040005;
+    box-shadow: 10px 10px #742673;
+    background-color: #fff;
+    border-radius: 20px;
+    margin: 200px 5px;
+    text-shadow: 2px 2px #742673;
+    text-align: center;
+    font-weight: bold;
+    position: absolute;
+    top: 270px;
+    right: 75px;
+}
+.para1 {
+    margin: 25px 10px;
+    padding: 10px 0;
+}
+.sbox4 {
+    width: 600px;
+    height: 130px;
+    border: 5px solid red;
+    background-color: #7fc030;
+    color: #691e17;
+    border-radius: 20px;
+    box-shadow: 10px 10px #742673;
+    position: fixed;
+    bottom: 0;
+    left: 325px;
+}
+.mbox {
+    width: 52%;
+    font-weight: bold;
+    font-size: 30px;
+    float: left;
+    text-align: center;
+    margin: 8px 22px;
+}
+.mbox1 {
+    width: 40%;
+    font-weight: bold;
+    font-size: 25px;
+    float: right;
+    text-align: center;
+}
+.footer {
+    width: 60%;
+    height: auto;
+    border: 5px solid #762673;
+    margin: 20px auto;
+    background-color: #2f7719;
+    text-align: center;
+}
+.fot1 {
+    width: 49.5%;
+    height: 270px;
+    float: left;
+    text-align: center;
+    background-color: #ede280;
+    font-weight: bold;
+}
+.fot2 {
+    width: 49.5%;
+    height: 270px;
+    float: right;
+    text-align: center;
+    font-weight: bold;
+    background-color: #ede280;
+}
+.fot3 {
+    width: 100%;
+    background-color: #ede280;
+    height: auto;
+    margin-top: 250px;
+    margin-left: 5px;
+    font-weight: bold;
+}
+h1 {
+    margin: 15px 78px;
+    padding: 2px 2px;
+}
+
